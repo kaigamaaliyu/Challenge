@@ -1,0 +1,145 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+#wrapper{
+	background-color: #000;
+	background-image: url('Image_49131.png');
+	
+}
+#header{
+	background-color: lightblue;
+	width: 100%;
+	height: 100px;
+}
+#header img{
+	padding: 1px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	float: left;
+
+}
+#header ul{
+	list-style: none;
+
+}
+#header ul li{
+	display: inline-block;
+	color: blue;
+	float: center;
+	margin-top: 27px;
+	padding: 10px;
+}
+
+#header ul a{
+	cursor: pointer;
+	text-decoration:none;
+	font-size: 17px;
+
+
+}
+#header input{
+	border: 1px solid lightblue;
+	float: right;
+	border-radius: 5px;
+	font-style: italic;
+	padding: 3px;
+	color: #000;
+	margin: 1px;
+}
+
+#nav{
+	background-color: #000;
+	background-image: url('Image_4629.png');
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	margin-top: 2px;
+	padding: 0;
+}
+#nav h2{
+	color: red;
+	font-style: italic;
+	margin: 5px;
+	font-size:50px;
+}
+#nav img{
+	width: 25px;
+	height: 25px;
+	float: right;
+	padding-bottom: 0px;
+	padding-top: 60px;
+	margin-right: 2px;
+}
+#main section{
+	background-color: lightgreen;
+	width: 42%;
+	height:auto;
+	margin-left: 120px;
+	margin-top:15px;
+	float: left;
+}
+#main section h5{
+	background-color: green;
+	padding: 7px;
+	font-size: 11px;
+	color: lightgreen; 
+}
+
+#main section h6{
+	padding: 7px;
+	font-size: 11.5px;
+	font-style: italic;
+	color: green;
+}
+#side{
+	background-color: pink;
+	width: 30%;
+	height: 350px;
+	float: right;
+	margin-right: 100px;
+	margin-top: 15px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+ 
+}
+#side h1{
+	background-color: #fafafa;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+	font-style: italic;
+}
+#side p{
+	margin-left: 40px;
+	margin-right: 40px;
+	font-style: italic;
+}
+.button{
+	background-color: purple;
+	border-radius: 3px;
+	width: 80px;
+	padding: 5px;
+	margin-top: 10px;
+	border: 1px solid purple;
+	color: #fff;
+	cursor: pointer;
+}
+.break{
+	margin-left: 40px;
+	margin-top: 10px;
+
+}
+.Go{
+	font-style: italic;
+	cursor: pointer;
+	background-color: #efefef;
+}
+#footer img{
+	height: 40px;
+	width: 100%;
+}
+.copy{
+	color: purple;
+	padding-bottom: 10px;
+}
